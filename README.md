@@ -1,2 +1,2 @@
-# WebBudy.github.io
-IIT Hyderabad (hackathon)
+# Web-Buddy-IIT-hackathon-.github.io
+IIT Hyderabad hackathon
